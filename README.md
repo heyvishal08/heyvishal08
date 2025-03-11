@@ -1,3 +1,4 @@
+![logo](https://github.com/heyvishal08/heyvishal08/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Python | SQL | Data Visualization | BCA | Finding insights in data & life</h3>
 <br>
