@@ -6,7 +6,7 @@
 
 - 💭 Ask me about **Data Analytics and AI**
 
-- 📫 How to reach me **heyvishal08@gmail.com**
+- 📫 How to reach me **itzmevishal08@gmail.com**
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
