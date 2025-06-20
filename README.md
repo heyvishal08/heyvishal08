@@ -1,4 +1,4 @@
-![logo](https://github.com/heyvishal08/heyvishal08/blob/main/Github%20Banner.png)
+![logo](https://github.com/heyvishal08/heyvishal08/blob/main/Baner%202.png)
 <h1 align="center">Hi there, I'm Vishal👋</h1>
 
 <p align="center">
