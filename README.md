@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Vishal👋</h1>
 
 <p align="center">
-  <em>Turning data into insights | Data Analyst skilled in Python, SQL, and Power BI</em>
+  <em>Turning data into insights | Data Analyst skilled in Python, SQL, Power BI and Gen AI</em>
 </p>
 
 <p align="center">
